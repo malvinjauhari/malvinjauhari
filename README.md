@@ -1,7 +1,7 @@
 ###
 <h1 align="center">Hi 👋, I'm Alvin Jauhari from Santri Developer</h1>
 <h3 align="center">A passionate junior web developer from Indonesia</h3>
-###
+
 <div align="center">
   <a href="https://instagram.com/alvinjauhari" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
