@@ -1,6 +1,7 @@
 ###
 <h1 align="center">Hi 👋, I'm Alvin Jauhari from Santri Developer</h1>
 <h3 align="center">A passionate junior web developer from Indonesia</h3>
+[![Banner]([https://example.com/banner.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmetrosemarang.com%2F2023%2F10%2F28%2Fbtn-santri-developer-kebangsaan-ajari-santri-jadi-pengembang-perumahan-yang-handal-dan-berakhlak%2F&psig=AOvVaw2Acf8jffuRjB27zPNIBJSE&ust=1707435024169000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDC5aSxmoQDFQAAAAAdAAAAABAE))]([https://your-link.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmetrosemarang.com%2F2023%2F10%2F28%2Fbtn-santri-developer-kebangsaan-ajari-santri-jadi-pengembang-perumahan-yang-handal-dan-berakhlak%2F&psig=AOvVaw2Acf8jffuRjB27zPNIBJSE&ust=1707435024169000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDC5aSxmoQDFQAAAAAdAAAAABAE))
 
 <div align="center">
   <a href="https://instagram.com/alvinjauhari" target="_blank">
