@@ -1,8 +1,6 @@
 ###
 <h1 align="center">Hi 👋, I'm Alvin Jauhari from Santri Developer</h1>
 <h3 align="center">A passionate junior web developer from Indonesia</h3>
-I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <div align="center">
   <a href="https://instagram.com/alvinjauhari" target="_blank">
