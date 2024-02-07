@@ -1,3 +1,4 @@
+###
 <h1 align="center">Hi 👋, I'm Alvin Jauhari from Santri Developer</h1>
 <h3 align="center">A passionate junior web developer from Indonesia</h3>
 
@@ -30,7 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=malvinjauhari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=malvinjauhari&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santrideveloper&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 ###
 
