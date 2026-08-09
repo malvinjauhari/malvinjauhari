@@ -20,13 +20,20 @@
 <br>
 
 ## 🚀 Executive Summary
-- 🤖 **Current Focus:** Engineering automated development workflows using custom AI agents and integrating advanced natural language models (LLMs/Gemini API) into modern applications.
+- 🤖 **Current Focus:** Engineering automated development workflows using custom AI agents and integrating advanced natural language models into modern applications.
 - ☁️ **Infrastructure & Backend:** Managing project deployments across Google Cloud and AWS, utilizing Supabase for scalable backend architectures, and implementing robust security practices (SOC principles).
 - 📊 **Project Management:** Experienced in monitoring performance data benchmarks, tracking group progress matrices, and leading technical operational protocols for large-scale initiatives.
 - 📫 **Reach me at:** alvinjauhari@protonmail.com
 
+## 🧠 Core Expertise: AI Agents & Coding Automation
+As an AI Automation specialist, I heavily utilize agentic coding tools and advanced LLMs to streamline the software development lifecycle, automate repetitive coding tasks, and architect robust backend systems. 
+
+* ⚙️ **Opencode:** Leveraging open-source code generation frameworks to accelerate initial project scaffolding, structure backend environments, and deploy boilerplate code efficiently.
+* 🌶️ **Kimchi Code:** Utilizing specialized agentic code assistants for real-time automated debugging, code refactoring, and maintaining clean architecture during intensive development cycles.
+* 🪽 **Hermes:** Implementing advanced reasoning natural language models to translate complex business logic into functional scripts, orchestrate intricate API integrations, and automate multi-step technical workflows.
+
 ## 💼 Featured Experience & Operations
-* **AI & Workflow Automation:** Integrated natural language models and custom agentic assistants into development cycles to accelerate software delivery and optimize operational efficiency.
+* **AI & Workflow Automation:** Integrated advanced natural language models and custom agentic assistants into daily development routines to accelerate software delivery and optimize operational efficiency.
 * **Technical Project Leadership (Panggung Gembira 606 & ALISCO 2025):** Orchestrated cross-functional collaboration using shared data matrices, constructed comprehensive participant systems, and finalized technical assembly protocols.
 * **Digital Mapping & Verification (Bojonegoro Area):** Executed digital footprint expansion by verifying public search coordinates and integrating geospatial operating records for regional educational facilities.
 
@@ -39,7 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🎓 Education
-* **Telkom University** | Bachelor of Information Engineering | Surabaya
+* **Institut Teknologi Sepuluh Nopember (ITS)** | Bachelor of Information Engineering | Surabaya
 * **SMA MBS Al Amin** | MIPA | Bojonegoro (Computer Laboratory & Installation Assistant)
 
 ## 📊 Analytics & Activity
