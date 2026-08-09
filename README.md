@@ -1,49 +1,61 @@
-###
-<h1 align="center">Hi 👋, I'm Alvin Jauhari from Indonesia</h1>
-<h3 align="center">A passionate junior web developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm M Alvin Jauhari</h1>
+<h3 align="center">Technical Program Manager | AI Automation & System Integration</h3>
+<p align="center"><i>Driving scalable cloud solutions, AI-agent automation, and data-driven project execution.</i></p>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
   <a href="https://instagram.com/alvinjauhari_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://www.youtube.com/@malvinjauhari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
-  <a href="https://www.youtube.com/@malvinjauhari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /
-  /a>
   <a href="https://www.tiktok.com/@alvinjauhari_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="TikTok logo" />
-</a>
+    <img src="https://img.shields.io/static/v1?message=TikTok&logo=tiktok&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TikTok logo" />
+  </a>
 </div>
 
-## 💫 About Me:
-- 🌱 I’m currently learning **Framework, Library, Wordpress**<br><br>- 📝 I regularly write articles on [https://alvinjauhari.com](https://404.com)<br><br>- 💬 Ask me about **Html, Css, Javascript, Tailwind**<br><br>- 📫 How to reach me **alvinjauhari@protonmail.com**<br><br>- ⚡ Fun fact **I I can also create a website using WordPress**
+<br>
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+## 🚀 Executive Summary
+- 🤖 **Current Focus:** Engineering automated development workflows using custom AI agents and integrating advanced natural language models (LLMs/Gemini API) into modern applications.
+- ☁️ **Infrastructure & Backend:** Managing project deployments across Google Cloud and AWS, utilizing Supabase for scalable backend architectures, and implementing robust security practices (SOC principles).
+- 📊 **Project Management:** Experienced in monitoring performance data benchmarks, tracking group progress matrices, and leading technical operational protocols for large-scale initiatives.
+- 📫 **Reach me at:** alvinjauhari@protonmail.com
 
-## 🎓Education:
-#### 1. [SMA MBS Al Amin](https://www.smambsalamin.sch.id/) | MIPA | Bojonegoro `2013-2016`
-   - Computer Laboratory Assistant
-   - Asistant Laboratorium of Installation
- #### 2. [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/) | Bachelor of Information Engineering | Surabaya `2013-2016`
-   - Coming Soon
-# 📊 GitHub Stats:
+## 💼 Featured Experience & Operations
+* **AI & Workflow Automation:** Integrated natural language models and custom agentic assistants into development cycles to accelerate software delivery and optimize operational efficiency.
+* **Technical Project Leadership (Panggung Gembira 606 & ALISCO 2025):** Orchestrated cross-functional collaboration using shared data matrices, constructed comprehensive participant systems, and finalized technical assembly protocols.
+* **Digital Mapping & Verification (Bojonegoro Area):** Executed digital footprint expansion by verifying public search coordinates and integrating geospatial operating records for regional educational facilities.
+
+## 🛠️ Technical Arsenal
+
+**AI, Cloud & Infrastructure**<br>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white) ![Security](https://img.shields.io/badge/SOC_Analysis-2C2D72?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+**Web & Development Tools**<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117BAC.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 🎓 Education
+* **Telkom University** | Bachelor of Information Engineering | Surabaya
+* **SMA MBS Al Amin** | MIPA | Bojonegoro (Computer Laboratory & Installation Assistant)
+
+## 📊 Analytics & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malvinjauhari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=malvinjauhari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=malvinjauhari&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=malvinjauhari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malvinjauhari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="165" alt="languages graph" />
 </div>
 
-###
+<br>
 
-## ✍️ Quoute Of The Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=malvinjauhari&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="165" alt="streak graph" />
+</div>
 
-###
+<br>
 
-
-
-
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
+</div>
