@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M Alvin Jauhari</h1>
-<h3 align="center">Technical Program Manager | AI Automation & System Integration</h3>
+<h3 align="center">Technical Project Manager | AI Automation & System Integration</h3>
 <p align="center"><i>Driving scalable cloud solutions, AI-agent automation, and data-driven project execution.</i></p>
 
 <div align="center">
